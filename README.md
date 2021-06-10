@@ -8,7 +8,7 @@ The code needs to be uploaded to M5 Atom for it to serve as a tracker.
 ## Installation  
 
 Inorder to upload this code on M5 Atom first download Arduino IDE. Open the code using Arduino IDE. Connect the M5 atom to the computer and upload the code 
-from arduino IDE. After this you can try out the M5 atom as fidget tracker but make sure you supply it with power source. 
+from arduino IDE.   You should also install the appropriate libraries to uplad  the code. The most important are the M5 atom, esp32, Fastled, and Adafruit libraries. After this you can try out the M5 atom as fidget tracker but make sure you supply it with power source. 
 
 ## Usage 
 To use the M5 atom with the code uploaded on it follow the following instruction. 
